@@ -1,5 +1,5 @@
 # log-print
-Easy to use log
+Simple log system with colors, timestamp and type
 
 ## Using example
 ```js
