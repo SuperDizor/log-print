@@ -1,6 +1,8 @@
 # log-print
 Simple log system with colors, timestamp and type
 
+![alt text](https://i.imgur.com/1pdcJLg.png)
+
 ## Using example
 ```js
 const log = require("./lib/print");
