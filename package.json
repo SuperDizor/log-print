@@ -1,0 +1,20 @@
+{
+  "name": "log-print",
+  "version": "0.0.1",
+  "description": "Simple log system with colors, timestamp and type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["log"],
+  "author": "SuperDizor",
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superdizor/log-print.git"
+  },
+  "homepage": "https://github.com/superdizor/log-print#readme"
+}
